@@ -5,3 +5,7 @@
 .background2{
     background-color: peru;
 }
+
+img.demo-shadow {
+    filter: drop-shadow(20px 20px 20px #000000)
+}
